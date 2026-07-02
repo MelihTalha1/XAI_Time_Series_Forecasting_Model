@@ -21,3 +21,5 @@ Ayrıca kullanıcıların istedikleri tarihleri seçerek tahminleri ve model kar
 - Gradio
 - Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
 
+🎓 Teşekkür ve Notlar
+Bu çalışma, Açıklanabilir Yapay Zeka (XAI) dersi kapsamında bir araştırma ve uygulama projesi olarak hazırlanmıştır. Geliştirme sürecini hızlandırmak, kod kalitesini artırmak ve model çıktılarının yorumlanması aşamalarında Claude AI bir yardımcı pilot (co-pilot) olarak kullanılmıştır.
