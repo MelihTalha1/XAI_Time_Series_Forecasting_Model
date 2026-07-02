@@ -1,1 +1,1 @@
-# A-klanabilir-Zaman_Serisi_Tahmin_Modeli
+# Açıklanabilir_Zaman_Serisi_Tahmin_Modeli
